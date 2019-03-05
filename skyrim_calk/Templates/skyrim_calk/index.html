@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+{% load staticfiles  %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+
+<div class="container">
+    <div class="box">
+        <form method="post">
+            {% csrf_token %}
+        <div>
+            <div class="layer">
+            <table>
+                {% for a, b, c, d, e, f in data %}
+                    <tr>
+                        <td class="qwerty"> {{ a }} </td><td class="qwerty"> {{ b }} </td><td class="qwerty"> {{ c }} </td><td class="qwerty"> {{ d }} </td><td class="qwerty"> {{ e }} </td><td class="qwerty"> {{ f }} </td>
+                    </tr>
+                {% endfor %}
+            </table>
+            </div>
+        </div>
+        <div>
+            <div class="testcss">
+                {% for field in form %}
+                    <div class="fieldWrapper">
+                    {{ field.errors }}
+                    {{ field.label_tag }}
+                    <br>
+                    {{ field }}
+                    </div>
+                {% endfor %}
+                <button type="submit" name="qwee">Поиск</button>
+            </div>
+        </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>

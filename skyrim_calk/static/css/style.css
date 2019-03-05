@@ -1,0 +1,36 @@
+body {
+    background: url("/static/img/skyrim.jpg") 50% 0 no-repeat fixed;
+
+}
+.qwerty{
+    border-color: rgba(79, 79, 79, 0.5);
+    border-style: solid;
+}
+.testcss{
+    width: 310px;
+    height: 400px; /* Высота блока */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    background: rgba(255, 255, 255, 0.5); /* Цвет фона */
+}
+.testcss2{
+    padding: 0px 120px 0px 120px;
+    margin: auto; /* Выравниваем по центру */
+    background-color: rgba(180, 180, 180, 0.66);
+}
+.layer {
+    overflow-y: scroll; /* Добавляем полосы прокрутки */
+    width: 700px;
+    margin: auto; /* Выравниваем по центру */
+    background: rgba(255, 255, 255, 0.5); /* Цвет фона */
+    height: 400px; /* Высота блока */
+   }
+.fieldWrapper{
+    width: 300px;
+}
+
+
+
+.container{overflow:hidden; margin-top: 5%}
+.box{vertical-align: top}
+.box div{display:inline-block; vertical-align: top}

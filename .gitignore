@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+skyrim_calk/1.py
+skyrim_calk/static/admin
+skyrim_calk/calk.py
