@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e32a6f6d-1010-4701-a795-b7dc7c923d74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Skyrim.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/static/img/skyrim.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/skyrim_web_app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/Templates/skyrim_calk/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/migrations/0002_auto_20190113_1521.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/static/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_calk/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_web_app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_web_app/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_web_app/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skyrim_web_app/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skyrim_calk/1.py" afterPath="$PROJECT_DIR$/skyrim_calk/1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skyrim_calk/models.py" afterPath="$PROJECT_DIR$/skyrim_calk/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skyrim_calk/views.py" afterPath="$PROJECT_DIR$/skyrim_calk/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/skyrim_web_app$calk.coverage" NAME="calk Coverage Results" MODIFIED="1547855465081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skyrim_calk" />
-    <SUITE FILE_PATH="coverage/skyrim_web_app$1.coverage" NAME="1 Coverage Results" MODIFIED="1551812890484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skyrim_calk" />
+    <SUITE FILE_PATH="coverage/skyrim_web_app$1.coverage" NAME="1 Coverage Results" MODIFIED="1551818765727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/skyrim_calk" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -58,21 +35,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skyrim_calk/Templates/skyrim_calk/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="476">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skyrim_calk/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="68">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1551805531122" expanded="true" signature="90:969" ph="..." />
+                <marker date="1551818014169" expanded="true" signature="95:979" ph="..." />
               </folding>
             </state>
           </provider>
@@ -81,38 +58,38 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skyrim_calk/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1689">
-              <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="-40">
+              <caret line="113" column="56" lean-forward="false" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1551817118578" expanded="true" signature="231:256" ph="SELECT NAME Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="511:536" ph="SELECT Name Negative" />
-                <marker date="1551817118578" expanded="true" signature="1567:1592" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="1567:1658" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="1765:1790" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="1765:1791" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="1765:1886" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="1765:1888" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="1971:2186" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="1971:2188" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="2381:2690" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="2381:2692" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="2996:3010" ph="SELECT * FRO... missing_value" />
-                <marker date="1551817118578" expanded="true" signature="2996:3021" ph="SELECT * FRO... missing_value" />
-                <marker date="1551817118578" expanded="true" signature="2996:3051" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="2996:3339" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="2996:3399" ph="SELECT * FRO... Ingredients" />
-                <marker date="1551817118578" expanded="true" signature="4628:4642" ph="SELECT * FRO... missing_value" />
+                <marker date="1551818765706" expanded="true" signature="296:321" ph="SELECT NAME Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="576:601" ph="SELECT Name Negative" />
+                <marker date="1551818765706" expanded="true" signature="962:987" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="962:1053" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1160:1185" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1160:1186" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1160:1281" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1160:1283" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1366:1581" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1366:1583" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1776:2085" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="1776:2087" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="2391:2405" ph="SELECT * FRO... missing_value" />
+                <marker date="1551818765706" expanded="true" signature="2391:2416" ph="SELECT * FRO... missing_value" />
+                <marker date="1551818765706" expanded="true" signature="2391:2446" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="2391:2734" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="2391:2794" ph="SELECT * FRO... Ingredients" />
+                <marker date="1551818765706" expanded="true" signature="4248:4262" ph="SELECT * FRO... missing_value" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="119">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -143,10 +120,10 @@
       <file leaf-file-name="1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skyrim_calk/1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="147">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
               <folding>
-                <marker date="1551812906917" expanded="true" signature="162:190" ph="SELECT NAME Ingredients" />
+                <marker date="1551818837629" expanded="true" signature="162:190" ph="SELECT NAME Ingredients" />
               </folding>
             </state>
           </provider>
@@ -182,9 +159,9 @@
         <option value="$PROJECT_DIR$/skyrim_calk/Templates/skyrim_calk/index.html" />
         <option value="$PROJECT_DIR$/skyrim_calk/urls.py" />
         <option value="$PROJECT_DIR$/skyrim_calk/views.py" />
-        <option value="$PROJECT_DIR$/skyrim_calk/1.py" />
-        <option value="$PROJECT_DIR$/skyrim_calk/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/skyrim_calk/models.py" />
+        <option value="$PROJECT_DIR$/skyrim_calk/1.py" />
       </list>
     </option>
   </component>
@@ -671,13 +648,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32815966" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32815966" sideWeight="0.47867805" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32815966" sideWeight="0.47867805" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15565032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -748,7 +726,7 @@
           <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1551805531122" expanded="true" signature="90:969" ph="..." />
+            <marker date="1551818014169" expanded="true" signature="95:979" ph="..." />
           </folding>
         </state>
       </provider>
@@ -808,24 +786,24 @@
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1551817118578" expanded="true" signature="231:256" ph="SELECT NAME Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="511:536" ph="SELECT Name Negative" />
-            <marker date="1551817118578" expanded="true" signature="1567:1592" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1567:1658" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1790" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1791" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1886" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1888" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2186" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2188" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2690" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2692" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3010" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3021" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3051" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3339" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3399" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="4628:4642" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="296:321" ph="SELECT NAME Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="576:601" ph="SELECT Name Negative" />
+            <marker date="1551818765706" expanded="true" signature="962:987" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="962:1053" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1185" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1186" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1281" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1283" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1581" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1583" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2085" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2087" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2405" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2416" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2446" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2734" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2794" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="4248:4262" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -844,7 +822,7 @@
           <caret line="42" column="63" lean-forward="true" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1551805531122" expanded="true" signature="90:969" ph="..." />
+            <marker date="1551818014169" expanded="true" signature="95:979" ph="..." />
           </folding>
         </state>
       </provider>
@@ -855,24 +833,24 @@
           <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1551817118578" expanded="true" signature="231:256" ph="SELECT NAME Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="511:536" ph="SELECT Name Negative" />
-            <marker date="1551817118578" expanded="true" signature="1567:1592" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1567:1658" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1790" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1791" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1886" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1888" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2186" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2188" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2690" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2692" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3010" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3021" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3051" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3339" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3399" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="4628:4642" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="296:321" ph="SELECT NAME Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="576:601" ph="SELECT Name Negative" />
+            <marker date="1551818765706" expanded="true" signature="962:987" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="962:1053" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1185" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1186" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1281" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1283" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1581" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1583" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2085" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2087" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2405" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2416" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2446" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2734" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2794" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="4248:4262" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -912,7 +890,7 @@
           <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1551805531122" expanded="true" signature="90:969" ph="..." />
+            <marker date="1551818014169" expanded="true" signature="95:979" ph="..." />
           </folding>
         </state>
       </provider>
@@ -923,24 +901,24 @@
           <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1551817118578" expanded="true" signature="231:256" ph="SELECT NAME Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="511:536" ph="SELECT Name Negative" />
-            <marker date="1551817118578" expanded="true" signature="1567:1592" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1567:1658" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1790" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1791" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1886" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1888" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2186" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2188" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2690" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2692" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3010" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3021" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3051" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3339" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3399" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="4628:4642" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="296:321" ph="SELECT NAME Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="576:601" ph="SELECT Name Negative" />
+            <marker date="1551818765706" expanded="true" signature="962:987" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="962:1053" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1185" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1186" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1281" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1283" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1581" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1583" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2085" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2087" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2405" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2416" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2446" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2734" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2794" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="4248:4262" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>
@@ -1020,14 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skyrim_calk/Templates/skyrim_calk/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skyrim_calk/static/admin/js/actions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1077,68 +1047,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skyrim_calk/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <marker date="1551812906917" expanded="true" signature="162:190" ph="SELECT NAME Ingredients" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skyrim_calk/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skyrim_calk/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skyrim_calk/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1551805531122" expanded="true" signature="90:969" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skyrim_calk/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1689">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1551817118578" expanded="true" signature="231:256" ph="SELECT NAME Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="511:536" ph="SELECT Name Negative" />
-            <marker date="1551817118578" expanded="true" signature="1567:1592" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1567:1658" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1790" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1791" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1886" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1765:1888" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2186" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="1971:2188" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2690" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2381:2692" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3010" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3021" ph="SELECT * FRO... missing_value" />
-            <marker date="1551817118578" expanded="true" signature="2996:3051" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3339" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="2996:3399" ph="SELECT * FRO... Ingredients" />
-            <marker date="1551817118578" expanded="true" signature="4628:4642" ph="SELECT * FRO... missing_value" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1152,11 +1065,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/skyrim_calk/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skyrim_calk/Templates/skyrim_calk/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skyrim_calk/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <marker date="1551818837629" expanded="true" signature="162:190" ph="SELECT NAME Ingredients" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skyrim_calk/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="113" column="56" lean-forward="false" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1551818765706" expanded="true" signature="296:321" ph="SELECT NAME Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="576:601" ph="SELECT Name Negative" />
+            <marker date="1551818765706" expanded="true" signature="962:987" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="962:1053" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1185" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1186" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1281" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1160:1283" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1581" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1366:1583" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2085" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="1776:2087" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2405" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2416" ph="SELECT * FRO... missing_value" />
+            <marker date="1551818765706" expanded="true" signature="2391:2446" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2734" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="2391:2794" ph="SELECT * FRO... Ingredients" />
+            <marker date="1551818765706" expanded="true" signature="4248:4262" ph="SELECT * FRO... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skyrim_calk/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1551818014169" expanded="true" signature="95:979" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
