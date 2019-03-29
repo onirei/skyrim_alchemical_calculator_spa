@@ -8,3 +8,4 @@ db.sqlite3
 skyrim_calk/1.py
 skyrim_calk/static/admin
 skyrim_calk/calk.py
+.idea/
